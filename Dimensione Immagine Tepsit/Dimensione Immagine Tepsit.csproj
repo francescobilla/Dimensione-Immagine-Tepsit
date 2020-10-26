@@ -6,4 +6,8 @@
     <RootNamespace>Dimensione_Immagine_Tepsit</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\HP\Desktop\francesco\Dimensione Immagine Tepsit.cs" Link="Dimensione Immagine Tepsit.cs" />
+  </ItemGroup>
+
 </Project>
